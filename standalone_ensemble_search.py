@@ -12,7 +12,7 @@ from collections import defaultdict
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 class StandaloneEnsembleSearch:
-    def __init__(self, data_file='landBot-13-7-25_sampled_100.csv'):
+    def __init__(self, data_file='landBot-13-7-25.csv'):
         self.data_file = data_file
         self.df = None
         self.embeddings = None

@@ -1,47 +1,18 @@
 Algorithm,Build Time (ms),Search Time (ms),Memory (MB),Accuracy,Compression,Status,Top Result
-Ivf Scalar Quantizer,17.7,0.04,0.040,~80-85% (clusteri,4.0x,success,ওয়েবসাইট থেকে খতিয়ান ডাউনলোড করা যাবে কি?......
-Adaptive Search,18.1,0.06,N/A,N/A,1x,success,ওয়েবসাইট থেকে খতিয়ান ডাউনলোড করা যাবে কি?......
-Ivf,11.7,0.06,0.150,"~95% (approximate)
-
-============================================================
-IVF ALGORITHM CHARACTERISTICS
-============================================================
-✓ Good bala",1x,success,ওয়েবসাইট থেকে খতিয়ান ডাউনলোড করা যাবে কি?......
-Hnsw,4.5,0.08,0.180,"~90-95% (approximate)
-
-============================================================
-HNSW ALGORITHM CHARACTERISTICS
-============================================================
-✓ Fast approximate search
-✓ Excelle",1x,success,ওয়েবসাইট থেকে খতিয়ান ডাউনলোড করা যাবে কি?......
-Cascade Search,6.8,0.10,N/A,~95% (HNSW ca,1x,success,ওয়েবসাইট থেকে খতিয়ান ডাউনলোড করা যাবে কি?......
-Ensemble Search,15.7,0.24,N/A,~90% (co,1x,success,ওয়েবসাইট থেকে খতিয়ান ডাউনলোড করা যাবে কি?......
-Lsh,11.4,0.35,N/A,~80% (hash-based approximatio,1x,success,"কেউ নামজারির জন্য ৫০০০ টাকা চাচ্ছে, এটা কি ঠিক?......"
-Binary Ivf,66.9,0.47,0.005,~70-80% (clusteri,1x,success,"আমি একটা জমি কিনেছি এখন নামজারি, খারিজ, মিউটেশন কর..."
-Flat Ip,0.1,0.61,0.150,"100% (exact search)
-
-============================================================
-FLATIP ALGORITHM CHARACTERISTICS
-============================================================
-✓ Exact cosi",1x,success,ওয়েবসাইট থেকে খতিয়ান ডাউনলোড করা যাবে কি?......
-Binary Flat,0.1,0.87,0.005,N/A,32x,success,"আমি একটা জমি কিনেছি এখন নামজারি, খারিজ, মিউটেশন কর..."
-Shards,0.1,0.99,0.150,N/A,1x,success,ওয়েবসাইট থেকে খতিয়ান ডাউনলোড করা যাবে কি?......
-Flat L2,0.1,1.65,0.150,"100% (exact search)
-
-============================================================
-FLATL2 ALGORITHM CHARACTERISTICS
-============================================================
-✓ Exact search - 100% accuracy
-✓ Fast for small datasets (<1K vectors)
-✓ Simple impleme",1x,success,ওয়েবসাইট থেকে খতিয়ান ডাউনলোড করা যাবে কি?......
-Pq,102.1,1.69,N/A,~75-85% (lossy compressio,192.0x,success,ওয়েবসাইট থেকে খতিয়ান ডাউনলোড করা যাবে কি?......
-Idmap,0.2,1.82,0.150,N/A,1x,success,[260.177] ওয়েবসাইট থেকে খতিয়ান ডাউনলোড করা যাবে কি...
-Scalar Quantizer,5.6,2.91,0.040,N/A,4.0x,success,ওয়েবসাইট থেকে খতিয়ান ডাউনলোড করা যাবে কি?......
-Gpu Flat,224.3,3.52,N/A,"100% (exact search)
-
-============================================================
-GPU FLAT ALGORITHM CHARACTERISTICS
-============================================================
-✓ GPU-accelerated exact search
-✓ Parallel processi",1x,success,ওয়েবসাইট থেকে খতিয়ান ডাউনলোড করা যাবে কি?......
-Gpu Ivfpq,398.1,7.05,N/A,~75-85% (lossy compressio,192.0x,success,ওয়েবসাইট থেকে খতিয়ান ডাউনলোড করা যাবে কি?......
+Flat L2,N/A,N/A,N/A,N/A,1x,failed,
+Cascade Search,N/A,N/A,N/A,N/A,1x,failed,
+Ivf Scalar Quantizer,N/A,N/A,N/A,N/A,1x,failed,
+Scalar Quantizer,N/A,N/A,N/A,N/A,1x,failed,
+Shards,N/A,N/A,N/A,N/A,1x,failed,
+Idmap,N/A,N/A,N/A,N/A,1x,failed,
+Binary Ivf,N/A,N/A,N/A,N/A,1x,failed,
+Ensemble Search,N/A,N/A,N/A,N/A,1x,failed,
+Binary Flat,N/A,N/A,N/A,N/A,1x,failed,
+Gpu Flat,N/A,N/A,N/A,N/A,1x,failed,
+Lsh,N/A,N/A,N/A,N/A,1x,failed,
+Pq,N/A,N/A,N/A,N/A,1x,failed,
+Hnsw,N/A,N/A,N/A,N/A,1x,failed,
+Ivf,N/A,N/A,N/A,N/A,1x,failed,
+Flat Ip,N/A,N/A,N/A,N/A,1x,failed,
+Gpu Ivfpq,N/A,N/A,N/A,N/A,1x,failed,
+Adaptive Search,N/A,N/A,N/A,N/A,1x,failed,
